@@ -48,4 +48,4 @@ This project is licensed under the MIT License.
 - [NumPy](https://numpy.org/)
 
 ## Contact
-For any questions or suggestions, please contact mailto:ahmy40404@gmail.com
+For any questions or suggestions, please contact ahmy40404@gmail.com
