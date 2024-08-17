@@ -12,8 +12,8 @@ This project is a machine learning-based fake news detector. It uses a combinati
 ## Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/fake-news-detector.git
-    cd fake-news-detector
+    git clone https://github.com/Ahmad8426/Fake-News-Detector.git
+    cd Fake-News-Detector
     ```
 2. Install the required dependencies:
     ```sh
