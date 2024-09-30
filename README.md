@@ -21,18 +21,24 @@ This project is a machine learning-based fake news detector. It uses a combinati
     ```
 
 ## Usage
-1. Prepare your dataset and place it in the `data` directory.
-2. Run the Jupyter Notebook:
+1. Collect data by running the data collection script:
+    ```sh
+    python data_collection.py
+    ```
+2. Prepare your dataset and place it in the `data` directory.
+3. Run the Jupyter Notebook:
     ```sh
     jupyter notebook Fake_news_2.ipynb
     ```
-3. Follow the steps in the notebook to preprocess the data, train the model, and evaluate its performance.
+4. Follow the steps in the notebook to preprocess the data, train the model, and evaluate its performance.
 
 ## Dependencies
 - numpy
 - pandas
 - scikit-learn
 - jupyter
+- requests
+- beautifulsoup4
 
 ## Project Structure
 - [`Fake_news_2.ipynb`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22vscode-notebook-cell%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2Fc%3A%2FUsers%2FAHMAD%2FDownloads%2FFake_News_Detection_Machine_learning_project%2FFake_news_2.ipynb%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22W0sZmlsZQ%3D%3D%22%7D%5D "c:\Users\AHMAD\Downloads\Fake_News_Detection_Machine_learning_project\Fake_news_2.ipynb"): Main Jupyter Notebook containing the code for data preprocessing, model training, and evaluation.
